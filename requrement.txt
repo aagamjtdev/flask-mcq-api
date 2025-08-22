@@ -1,0 +1,10 @@
+Flask
+flask-cors
+gunicorn
+PyMuPDF
+pytesseract
+Pillow
+google-generativeai
+chromadb
+sentence-transformers
+werkzeug
